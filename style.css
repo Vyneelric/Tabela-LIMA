@@ -1,0 +1,10 @@
+th, td{
+    border: 2px solid rgb(160 160 160);
+    padding: 1px 10px;
+  }
+  /* Utilizei o border: para fazer as bordas de todos os elementos aplicados */
+  /* Utilizei o padding: para poder arrumar o espaçamento dos elementos da página do jeito que eu desejava */
+  img{
+    width: 100px;
+  }
+  /* Utilizei o width: para poder mudar o tamanho das imagens colocadas na página */
